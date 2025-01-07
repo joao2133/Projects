@@ -73,7 +73,7 @@ Welcome to my personal projects page! Here you will find a selection of projects
   3. The game evaluates the winner for the round and updates the scores.
   4. The first to reach 3 points wins the game, and a reset button appears for a new game.
 
-- **Live Demo**: *(link)*
+- **Live Demo**: *([link](https://joao2133.github.io/Projects/Rock,%20Paper,%20Scissors%20Game/))*
 
 - **Purpose**:  
   This project demonstrates my ability to combine logic, interactivity, and design to create an engaging browser-based game.
