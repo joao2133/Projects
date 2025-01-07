@@ -118,7 +118,7 @@ Welcome to my personal projects page! Here you will find a selection of projects
   3. Enter the cave to fight slimes and beasts, earning XP and gold to strengthen your character.  
   4. Fight the dragon in the final battle to win the game.  
 
-**Live Demo**: *(link)*
+**Live Demo**: *([link](https://joao2133.github.io/Projects/simpleGame/))*
 
 - **Purpose**:  
   This project demonstrates my ability to create a browser-based game that combines logic, resource management, and dynamic interactions. It highlights my skills in HTML, CSS, and JavaScript for building interactive and engaging applications.  
