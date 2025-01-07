@@ -81,7 +81,7 @@ Welcome to my personal projects page! Here you will find a selection of projects
 
 ---------------------------------------------------------------------
 
-### 2️⃣ **Dragon Repeller RPG**
+### 3️⃣ **Dragon Repeller RPG**
 
 - **Description**:  
   Dragon Repeller is an interactive text-based RPG where players embark on a quest to save a town by defeating a mighty dragon. Players explore different locations, fight monsters, manage resources, and upgrade their equipment to succeed in their mission.
