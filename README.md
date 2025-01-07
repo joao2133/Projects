@@ -31,7 +31,7 @@ Welcome to my personal projects page! Here you will find a selection of projects
   - Aesthetically pleasing design with a dark background and contrasting text for readability.
   - Accessibility-focused with labels and placeholders to guide the user.
 
-- **Live Demo**: *(link)*
+- **Live Demo**: *([link](https://joao2133.github.io/Projects/registration-form/index.html))*
 
 - **Purpose**:  
   This project demonstrates my ability to create functional and visually appealing forms using HTML and CSS while incorporating user input validation and responsive design principles.
